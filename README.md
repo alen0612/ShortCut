@@ -2,7 +2,7 @@
 
 A [shortcut](https://alen0612.github.io/ShortCut) to all side project I made and my links.
 
-[Github](https://github.com/alen0612)
+[My Github](https://github.com/alen0612)
 
 [HTML Practice](https://alen0612.github.io/HTMLPractice/)
 
