@@ -1,6 +1,6 @@
 # Shortcut
 
-A [shortcut](https://github.com/alen0612) to all side project I made and my links.
+A [shortcut](https://github.com/ShortCut) to all side project I made and my links.
 
 [Github]()
 
