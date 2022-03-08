@@ -15,3 +15,5 @@ A [shortcut](https://alen0612.github.io/ShortCut) to all side project I made and
 [Portfolio](https://alen0612.github.io/Portfolio/)
 
 [Calculator](https://alen0612.github.io/easyCalculator/)
+
+[WeatherMood](https://alen0612.github.io/WeatherMood/)
