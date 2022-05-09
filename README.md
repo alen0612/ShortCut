@@ -17,3 +17,5 @@ A [shortcut](https://alen0612.github.io/ShortCut) to all side project I made and
 [Calculator](https://alen0612.github.io/easyCalculator/)
 
 [WeatherMood](https://alen0612.github.io/Weather-Mood-Client/)
+
+[CovidTracked](https://alen0612.github.io/covid-tracker/)
