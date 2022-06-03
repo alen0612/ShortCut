@@ -21,3 +21,5 @@ A [shortcut](https://alen0612.github.io/ShortCut) to all side project I made and
 [CovidTracked](https://alen0612.github.io/covid-tracker/)
 
 [CryptoChecker](https://alen0612.github.io/crypto-checker/)
+
+[Sorting Visualization](https://alen0612.github.io/sorting-visualization/)
